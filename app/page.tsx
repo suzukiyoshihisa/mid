@@ -15,7 +15,7 @@ const data: { contents: News[] } = {
   contents: [
     {
       id: "1",
-      title: "新しい更新情報があります",
+      title: "テストテキストテストテキストテストテキスト",
       category: {
         name: "更新情報"
       },
@@ -33,7 +33,7 @@ const data: { contents: News[] } = {
     },
     {
       id: "3",
-      title: "新しい更新情報があります",
+      title: "テストテキスト",
       category: {
         name: "更新情報"
       },
